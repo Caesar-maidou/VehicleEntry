@@ -15,6 +15,10 @@
 
 这是 Android Studio 项目源码，不是已编译的 APK。当前构建环境没有安装 Android SDK/Gradle，因此不能在这里直接编译出可安装 APK。
 
+## Releases
+
+Pre-built APKs are available on the GitHub Releases page.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
