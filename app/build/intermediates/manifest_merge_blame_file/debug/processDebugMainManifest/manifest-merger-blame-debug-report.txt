@@ -1,0 +1,49 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.vehicleentry"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="28" />
+10
+11    <uses-permission
+11-->C:\Users\maidou\Desktop\Wallpaper folder\maidou PARKING VERIFY SYS\VehicleEntryAndroid\app\src\main\AndroidManifest.xml:2:5-106
+12        android:name="android.permission.READ_EXTERNAL_STORAGE"
+12-->C:\Users\maidou\Desktop\Wallpaper folder\maidou PARKING VERIFY SYS\VehicleEntryAndroid\app\src\main\AndroidManifest.xml:2:22-77
+13        android:maxSdkVersion="32" />
+13-->C:\Users\maidou\Desktop\Wallpaper folder\maidou PARKING VERIFY SYS\VehicleEntryAndroid\app\src\main\AndroidManifest.xml:2:78-104
+14
+15    <application
+15-->C:\Users\maidou\Desktop\Wallpaper folder\maidou PARKING VERIFY SYS\VehicleEntryAndroid\app\src\main\AndroidManifest.xml:3:5-7:19
+16        android:allowBackup="true"
+16-->C:\Users\maidou\Desktop\Wallpaper folder\maidou PARKING VERIFY SYS\VehicleEntryAndroid\app\src\main\AndroidManifest.xml:3:153-179
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:label="车辆临时入校申请BY MAIDOU"
+19-->C:\Users\maidou\Desktop\Wallpaper folder\maidou PARKING VERIFY SYS\VehicleEntryAndroid\app\src\main\AndroidManifest.xml:3:82-115
+20        android:theme="@android:style/Theme.Material.Light.NoActionBar"
+20-->C:\Users\maidou\Desktop\Wallpaper folder\maidou PARKING VERIFY SYS\VehicleEntryAndroid\app\src\main\AndroidManifest.xml:3:18-81
+21        android:usesCleartextTraffic="false" >
+21-->C:\Users\maidou\Desktop\Wallpaper folder\maidou PARKING VERIFY SYS\VehicleEntryAndroid\app\src\main\AndroidManifest.xml:3:116-152
+22        <activity
+22-->C:\Users\maidou\Desktop\Wallpaper folder\maidou PARKING VERIFY SYS\VehicleEntryAndroid\app\src\main\AndroidManifest.xml:4:9-6:20
+23            android:name="com.example.vehicleentry.MainActivity"
+23-->C:\Users\maidou\Desktop\Wallpaper folder\maidou PARKING VERIFY SYS\VehicleEntryAndroid\app\src\main\AndroidManifest.xml:4:19-47
+24            android:exported="true" >
+24-->C:\Users\maidou\Desktop\Wallpaper folder\maidou PARKING VERIFY SYS\VehicleEntryAndroid\app\src\main\AndroidManifest.xml:4:48-71
+25            <intent-filter>
+25-->C:\Users\maidou\Desktop\Wallpaper folder\maidou PARKING VERIFY SYS\VehicleEntryAndroid\app\src\main\AndroidManifest.xml:5:13-154
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Users\maidou\Desktop\Wallpaper folder\maidou PARKING VERIFY SYS\VehicleEntryAndroid\app\src\main\AndroidManifest.xml:5:28-79
+26-->C:\Users\maidou\Desktop\Wallpaper folder\maidou PARKING VERIFY SYS\VehicleEntryAndroid\app\src\main\AndroidManifest.xml:5:36-77
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\Users\maidou\Desktop\Wallpaper folder\maidou PARKING VERIFY SYS\VehicleEntryAndroid\app\src\main\AndroidManifest.xml:5:79-138
+28-->C:\Users\maidou\Desktop\Wallpaper folder\maidou PARKING VERIFY SYS\VehicleEntryAndroid\app\src\main\AndroidManifest.xml:5:89-136
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>
