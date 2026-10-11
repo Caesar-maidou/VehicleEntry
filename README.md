@@ -13,8 +13,6 @@
 3. 等待 Gradle 同步完成，选择 Build → Build Bundle(s) / APK(s) → Build APK(s)。
 4. APK 通常生成在 `app/build/outputs/apk/debug/app-debug.apk`。
 
-这是 Android Studio 项目源码，不是已编译的 APK。当前构建环境没有安装 Android SDK/Gradle，因此不能在这里直接编译出可安装 APK。
-
 ## Releases
 
 Pre-built APKs are available on the GitHub Releases page.
