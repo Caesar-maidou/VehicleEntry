@@ -13,11 +13,11 @@
 3. 等待 Gradle 同步完成，选择 Build → Build Bundle(s) / APK(s) → Build APK(s)。
 4. APK 通常生成在 `app/build/outputs/apk/debug/app-debug.apk`。
 
-##Releases
+## Releases
 
 Pre-built APKs are available on the GitHub Releases page.
 
-##License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
