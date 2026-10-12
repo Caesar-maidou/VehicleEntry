@@ -19,6 +19,6 @@ Pre-built APKs are available on the GitHub Releases page.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT Licence](LICENCE).
 
 Copyright (c) 2026 maidou
